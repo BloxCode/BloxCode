@@ -16,6 +16,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CodrDev&show_icons=true&theme=github_dark)
 
 ## Stats
-<img src="https://github-profile-trophy.vercel.app/?username=CodrDev&theme=flat">
+<img src="https://github-profile-trophy.vercel.app/?username=CodrDev&theme=darkhub">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CodrDev&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-9-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-1-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-8-blueviolet)
