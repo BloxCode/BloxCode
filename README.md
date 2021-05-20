@@ -9,8 +9,8 @@
 ## My stats:
 ![GitHub](https://github-readme-stats.vercel.app/api?username=CodrDev&count_private=true&show_icons=true&theme=github_dark)
 ## Languages and Tools:
-![NodeJS](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg)
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png)
+<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="NodeJS" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python" width="200"/>
 ## Language statistics:
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CodrDev&show_icons=true&theme=github_dark)
 
